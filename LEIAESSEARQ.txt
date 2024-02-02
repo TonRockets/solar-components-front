@@ -1,0 +1,11 @@
+Boa tarde pessoal, todos bem?
+
+Gostaria de compartilhar com voces alguns pontos que considero importantes:
+- Na Ilha do Governador (onde moro no RJ) está tendo uma crise de energia (a impresa responsável se chama Light), inclusive poucos segundos antes de eu começar a digitar esse texto caiu a energia de novo.
+- Como eu informei na ultima reuniao, eu estou bem atarefado na empresa onde estou atualmente, 2 devs sairam de férias entao o backlog ta bem cheio.
+- Gostaria de pedir também que a minha avaliacao nao ocorresse somente através desse test, mas tambem pela minha dedicacao, curriculo, primeira entrevista, e até projetinhos que já tenho no github como o node-tdd-cleanArch (está no começo mas estou fazendo com muito cuidado e atenção para ser algo bem bacana).
+- Por fim, gostaria de agradecer a compreensao e a oportunidade. De fato estou muito afim de fazer parte do time/empresa, é algo que tenho como objetivo pessoal.
+
+Deixo aqui as minhas consideracoes e agradeco desde já
+
+obs: muita coisa nao foi implantada, mas com o tempo que tive fiz o máximo que pude!
